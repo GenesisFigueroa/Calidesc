@@ -6,8 +6,8 @@ public class Metodos {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//calificaciones();
-		//promedio();
+		calificaciones();
+		promedio();
 		descuento();
 	}
 private static int calificaciones(){
@@ -42,7 +42,7 @@ private static int promedio(){
 
 private static int descuento(){
 	
-	System.out.println("MENÚ DE DESCUENTO");
+	System.out.println("MENÃš DE DESCUENTO");
 	System.out.println("1. BOLITA ROJA");
 	System.out.println("2. BOLITA AMARILLA");
 	System.out.println("3. BOLITA BLANCA");
